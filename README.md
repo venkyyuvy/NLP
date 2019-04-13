@@ -1,2 +1,2 @@
 # NLP
-natural language processing related tasks
+natural language processing related tasks.
